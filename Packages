@@ -1,0 +1,36 @@
+﻿Architecture: windows_x64
+Built-Using: nipkg
+CompatibilityVersion: 230500
+Description: audio test synopsis
+  audio test description field
+DisplayName: Jacks Audio Test
+Filename: jacks-audio-test/jack-audiotest_1.0.0.0_windows_x64.nipkg
+MD5sum: 928512bdb42c418f612f4ebb122db498
+Maintainer: Jack and Co <email@mycompany.com>
+Package: jack-audiotest
+Plugin: file
+Section: Add-Ons
+Size: 52314720
+StoreProduct: yes
+UserVisible: yes
+Version: 1.0.0.0
+VisibleForRuntimeDeployment: no
+
+Architecture: windows_x64
+Built-Using: nipkg
+CompatibilityVersion: 230800
+Description: audio test synopsis
+  audio test description field
+DisplayName: Jacks Audio Test
+Filename: jacks-audio-test/jack-audiotest_1.0.0.1_windows_x64.nipkg
+MD5sum: d381fc12a6e5bd500cc4413a9c7f0156
+Maintainer: Jack and Co <email@mycompany.com>
+Package: jack-audiotest
+Plugin: file
+Section: Add-Ons
+Size: 64843572
+StoreProduct: yes
+UserVisible: yes
+Version: 1.0.0.1
+VisibleForRuntimeDeployment: no
+
